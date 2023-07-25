@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39885921222",
+    "project_id": "newso-1c7e3",
+    "storage_bucket": "newso-1c7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39885921222:android:63d11af944ab519096b0c7",
+        "android_client_info": {
+          "package_name": "com.example.newso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39885921222-2b788d3o0u0nta5asfm9tpcbnv7r91a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3b6kxdekQUZaMy-dm6TTgwZLQUzCelQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39885921222-2b788d3o0u0nta5asfm9tpcbnv7r91a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
